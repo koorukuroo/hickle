@@ -4,6 +4,11 @@ Hickle
 Hickle is a HDF5 based clone of Pickle, with a twist. Instead of serializing to a pickle file,
 Hickle dumps to a HDF5 file. It is designed to be a "drop-in" replacement for pickle (for common data objects). That is: it is a neat little way of dumping python variables to file.
 
+Installation
+---------------
+pip install hickle
+
+
 Why use Hickle?
 ---------------
 
